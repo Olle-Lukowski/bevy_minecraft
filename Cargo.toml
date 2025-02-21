@@ -1,0 +1,10 @@
+[package]
+name = "bevy_minecraft"
+description = "Minecraft servers using bevy"
+keywords = ["minecraft", "bevy"]
+license = "MIT OR Apache-2.0"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15"
